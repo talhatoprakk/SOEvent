@@ -31,7 +31,7 @@ namespace Game.Scripts.Play
         private IEnumerator GameEventHelperRoutine()
         {
             yield return _duration;
-            TLogger.Log("Success! CalledOnEnableEvent");
+            TLogger.Log("Success! CalledOnStartCoroutine");
         }
         
         #endregion
