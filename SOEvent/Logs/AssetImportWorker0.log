@@ -2401,3 +2401,81 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 173.070276 seconds.
+  path: Assets/Game/Scripts/Utilities
+  artifactKey: Guid(bb844c7e8c48c4b73ae5d9db6852eae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Scripts/Utilities using Guid(bb844c7e8c48c4b73ae5d9db6852eae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b2d535732c42476f9e961edba3a893') in 0.121506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.069726 seconds.
+  path: Assets/Game/Scripts/Utilities/Events
+  artifactKey: Guid(295fa15238bd445e29a0b78997431cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Scripts/Utilities/Events using Guid(295fa15238bd445e29a0b78997431cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce6cd6e0ef999ca4f724286a6cc8330') in 0.003284 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.025157 seconds.
+  path: Assets/Game/Scripts/Utilities/Events/Listeners
+  artifactKey: Guid(b6f04c9a8747346e5aaaa0ff00e0b1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Scripts/Utilities/Events/Listeners using Guid(b6f04c9a8747346e5aaaa0ff00e0b1ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2b4cfe8d02d2b146639f53f7f796b88') in 0.002847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.232406 seconds.
+  path: Assets/Game/Scripts/Utilities/Events/Listeners/VoidEventListener.cs
+  artifactKey: Guid(6e518487a72cc4805a773958e11902cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Scripts/Utilities/Events/Listeners/VoidEventListener.cs using Guid(6e518487a72cc4805a773958e11902cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '365ff8b6404a91cb601386132d094ae1') in 0.235966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.131967 seconds.
+  path: Assets/Game/Scripts/Utilities/Events/Listeners/IGameEventListener.cs
+  artifactKey: Guid(4504fb4f539e6498d854f374017f5b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Scripts/Utilities/Events/Listeners/IGameEventListener.cs using Guid(4504fb4f539e6498d854f374017f5b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b180de9a6424b6ae9c0fc95bcdf58dc') in 0.002125 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.518628 seconds.
+  path: Assets/Game/Scripts/Utilities/Events/Listeners/BaseEventListener.cs
+  artifactKey: Guid(69d57ec9b53fd4163abac0bde0fd7ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Scripts/Utilities/Events/Listeners/BaseEventListener.cs using Guid(69d57ec9b53fd4163abac0bde0fd7ff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82e02941025884f2fd8ac6a31a0f6a9a') in 0.001904 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.327698 seconds.
+  path: Assets/Game/Scripts/Utilities/Events/VoidEvent.cs
+  artifactKey: Guid(8eb221fb1f4ac43889f04d70acf60183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Scripts/Utilities/Events/VoidEvent.cs using Guid(8eb221fb1f4ac43889f04d70acf60183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b879fb3177c18227d815cd6773b4eb') in 0.002659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.100229 seconds.
+  path: Assets/Game/Scripts/Utilities/Events/BaseEvent.cs
+  artifactKey: Guid(1f99b5d13d93445da87d9b6e6f58e43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Scripts/Utilities/Events/BaseEvent.cs using Guid(1f99b5d13d93445da87d9b6e6f58e43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e1ddf7da9e559245a88aa29542de67') in 0.002291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.280586 seconds.
+  path: Assets/Game/Scripts/Utilities/TLogger.cs
+  artifactKey: Guid(db2d1a31091c43b380084eb07fba0a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Scripts/Utilities/TLogger.cs using Guid(db2d1a31091c43b380084eb07fba0a6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41555ab460e5f8a0eeaea4f6b24b6d5') in 0.002833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.727599 seconds.
+  path: Assets/Game/Prefabs/LevelObjects/GameEventRaiser.prefab
+  artifactKey: Guid(773635196005e44a2b4172449d3e53d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Prefabs/LevelObjects/GameEventRaiser.prefab using Guid(773635196005e44a2b4172449d3e53d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55964049760177a079c2b38033a6644b') in 0.224402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Game/Prefabs/LevelObjects/GameEventTest.prefab
+  artifactKey: Guid(1fe77e18852d84c7b93bcb6faf10ff92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Prefabs/LevelObjects/GameEventTest.prefab using Guid(1fe77e18852d84c7b93bcb6faf10ff92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '633f34d484eb25225b19642ee2d89b8d') in 0.019521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.345908 seconds.
+  path: Assets/Game/Prefabs/LevelObjects/GameEventRaiser.prefab
+  artifactKey: Guid(773635196005e44a2b4172449d3e53d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Prefabs/LevelObjects/GameEventRaiser.prefab using Guid(773635196005e44a2b4172449d3e53d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a39411c706564fb80627a04ede3b790') in 0.008696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.643528 seconds.
+  path: Assets/Game/Prefabs/LevelObjects/GameEventTest.prefab
+  artifactKey: Guid(1fe77e18852d84c7b93bcb6faf10ff92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/Prefabs/LevelObjects/GameEventTest.prefab using Guid(1fe77e18852d84c7b93bcb6faf10ff92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207a84eef4d0ccd9ccba7b2bb154d7b1') in 0.008390 seconds 

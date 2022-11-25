@@ -45,4 +45,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   onStart: {fileID: 11400000, guid: 27e8d05f829824c91a75f222393af095, type: 2}
-  onEnable: {fileID: 11400000, guid: 605f4cb9c28574a4cb88dd05abacabc4, type: 2}
+  onStartCoroutine: {fileID: 11400000, guid: c5fed0c30b7424d8085bc74187b6e347, type: 2}

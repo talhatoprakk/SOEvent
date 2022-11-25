@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3579773594469674002}
   - component: {fileID: 3643127918576026419}
   - component: {fileID: 1480973933469881671}
+  - component: {fileID: 1371810909}
   m_Layer: 0
   m_Name: GameEventTest
   m_TagString: Untagged
@@ -49,7 +50,7 @@ MonoBehaviour:
   unityEventResponse:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1371810909}
         m_TargetAssemblyTypeName: Game.Scripts.Play.GameEventTest, Assembly-CSharp
         m_MethodName: CalledOnStartEventRunFunction
         m_Mode: 1
@@ -73,11 +74,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e518487a72cc4805a773958e11902cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameEvent: {fileID: 11400000, guid: 605f4cb9c28574a4cb88dd05abacabc4, type: 2}
+  gameEvent: {fileID: 11400000, guid: c5fed0c30b7424d8085bc74187b6e347, type: 2}
   unityEventResponse:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1371810909}
         m_TargetAssemblyTypeName: Game.Scripts.Play.GameEventTest, Assembly-CSharp
         m_MethodName: CallRoutine
         m_Mode: 1
@@ -89,3 +90,15 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1371810909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3579773594469674003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 223e3c56c1094d8389e74af22be7ee9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
